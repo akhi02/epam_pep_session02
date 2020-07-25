@@ -3,6 +3,6 @@ epam pep session home task 2
 
 To calculate estimation cost of all cadies that a child had.
 
-This maven project consists of a problem statement that there is a boy who collected candies on halloween and he wants estimate how much that the candies worth and the boy can estimate individual each candy cost but here we have to estimate cost of all candies together.
+This maven project consists of a problem statement that there is a boy who collected candies on halloween and he wants estimate how much that the candies worth and the boy can estimate individualy cost of each candy but here we have estimated cost of all candies together.
 
 You can directly use the final_execute.jar file to execute this project.
